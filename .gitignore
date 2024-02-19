@@ -1,2 +1,6 @@
 *.pdf
+*.png
+*.jpg
+*.jpeg
 .*lock.*
+.cache

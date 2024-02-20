@@ -10,4 +10,4 @@ Die zu betrachtenen Dokumente sind im **master** Branch hinterlegt.
 * weiteres ...
 
 # Bewertungsvorgaben
-Hier werden Bewertungsvorgaben für Skrum und die "Pflichtdokumente" in tabellarischer Form hinterlegt.
+Hier werden Bewertungsvorgaben für Skrum und die "Pflichtdokumente" in schriftlicher Form hinterlegt.

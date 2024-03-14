@@ -20,3 +20,7 @@ Hier werden mögliche Bewertungskriterien für Scrum und die "Pflichtdokumente" 
 ## <u> Sprint - Ablaufplan </u>
 * [Ablaufplan der Sprints](Scrum/Ablauf.md)
 * [Abweichungen vom Ablaufplan](Scrum/Abweichungen.md)
+
+
+## <u> Sprint Backlog </u>
+Den Sprint Backlog finden Sie [hier](https://github.com/orgs/LocalCaptureInnovations/projects/8).

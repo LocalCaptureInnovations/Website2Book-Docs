@@ -26,16 +26,15 @@ Als ein **Developer** brauche ich eine **klassenbasierte Bereitstellung der Funk
 Alle PBI benötigen vormulierte Akzeptanzkriterien. Diese werden primär als Auflistung dargestellt. Falls die Kriterien nur als Text darstellbar ist, ist erlaubt Fließtext zu nutzen.
 
 ### Was fällt darunter?
-Alle Anforderungen, die **NICHT** feststehen, also wo z.B sicher ist, wie oder ob diese technisch lösbar sind werden als Akzeptanzkriterien Definiert.
+Alle Anforderungen, die **NICHT** feststehen, also wo z.B sicher ist, wie oder ob diese technisch lösbar sind, werden als Akzeptanzkriterien Definiert.
 
 ## <u> 2.3 Abhängigkeiten </u>
 Falls ein PBI eine oder mehr Abhängigkeiten besitzt, die erfüllt sein müssen, für das durchführen/umsetzen der Task, muss dieses in dem PBI aufgezeigt werden. Hierbeit könnte eine Abhängigkeit eine andere Task sein, die zuvor erfüllt sein muss.
 
 ## <u> 2.4 Schätzung </u>
-Hierbei wird im Team die machbarkeit, in relation zur Definition of Done, überprüft. Zudem wird, im Team, die Größe des Items auf Umsetbarkeit geprüft.
+Hierbei wird im Team die Machbarkeit, in Relation zur **Definition of Done**, überprüft. Zudem wird, im Team, die Größe des Items auf Umsetzbarkeit, innerhalb des Zeitraumes eines Sprints, geprüft.
 
 # 3 Weiteres
-
 ## <u> 3.1 Inhalsbezogene Bilder </u>
 Bei Umsetung von UIs oder ähnlichen, muss ein Bild mit in die Task beigefügt werden.
 

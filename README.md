@@ -10,4 +10,13 @@ Die zu betrachtenen Dokumente sind im **master** Branch hinterlegt.
 * weiteres ...
 
 # Bewertungsvorgaben
-Hier werden Bewertungsvorgaben für Skrum und die "Pflichtdokumente" in schriftlicher Form hinterlegt.
+Hier werden mögliche Bewertungskriterien für Scrum und die "Pflichtdokumente" in schriftlicher Form hinterlegt.
+
+# Scrum Dokumente
+## <u> Definition of ... </u>
+* [Definition of Done](Scrum/DoD.md)
+* [Definition of Ready](Scrum/DoR.md)
+
+## <u> Sprint - Ablaufplan </u>
+* [Ablaufplan der Sprints](Scrum/Ablauf.md)
+* [Abweichungen vom Ablaufplan](Scrum/Abweichungen.md)

@@ -13,23 +13,24 @@ Hier werden Dokumente genannt, die erstellt werden müssen.
 * **Projektdokumentation** - Anpassung/Aktualisierung der Dokumentation
 
 # 3 Code Qualität
-Hier werden standards für die Code Qualtät kurz angebrochen, welche einzuhalten sind, damit die Task als beendet bezeichnet werden darf.
+Hier werden Standards für die Code Qualtät erläutert, welche einzuhalten sind, damit die Task beendet werden darf.
 
 ## <u> 3.1 Klassenbasierte Entwicklung </u>
 ### Allgemein
-Pro Datei eine Klasse. Die Datei ist gleichnamig nicht der Klasse.
+Pro Datei eine Klasse. Die Datei ist gleichnamig mit der Klasse.
 
 ### Sichtbarkeiten
-* (Alle) Eigenschaften: **private**
-* (meisten) Methoden: **public**
+* (Meisten) Eigenschaften: **private**
+* (Meisten) Methoden: **public**
 
 ### Struktur
-Es sind für jede Eigenschaft, falls Sinnvoll, **Getter** & **Setter** zu schreiben.
-
-Bei Überschneidungen der Eigenschaften und Funktionen von anderen Klassen, wird eine Basisklasse entworfen, von der geerbt wird.
+Falls das Produkt an flexibilität und er
+Es sind **Getter** und **Setter** Methoden für jede Eigenschaft bereitzustellen, bei der dies den Wert des Produktes steigert. Unter anderen ist darunter zu verstehen, dass die Erweiterbarkeit und Flexibilität verbessert wird.
 
 ## <u> 3.2 Style </u>
-Am Ende der Task wird der Autoformatter verwendet. Daraufhin werden, falls entstanden, Errors behoben.
+Am Ende der Task wird der Autoformatter verwendet. Daraufhin werden, falls entstanden, Errors behoben und der Import auf entstandene Fehler überprüft.
 
 ## <u> 3.3 Umfang </u>
-Eine Datei sollte nicht mehr als ca. einhundert Zeilen umfassen. Falls dies als notwendig angesehen wird, wird der Project Owner dazugezogen.
+Eine Datei umfasst nicht mehr als eine Klasse. Diese kann ein **Handler** von übergeordneten Klassen sein, order einer dieser Klassen sein.
+
+Eine Datei sollte nicht mehr als ca. einhundertzwanzig Zeilen umfassen. Falls dies als notwendig angesehen wird, wird der Project Owner dazugezogen.
